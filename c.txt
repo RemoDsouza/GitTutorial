@@ -1,7 +1,3 @@
 Juber's Changes
 Rohit's changes
-<<<<<<< HEAD
 And new one
-=======
-And new one
->>>>>>> 6a4c2e5233fee5b647cafa27cc235abe94a2616e
