@@ -1,7 +1,4 @@
 This is init
 First commit
 Second commit
-<<<<<<< HEAD
-=======
 Last commit
->>>>>>> main
